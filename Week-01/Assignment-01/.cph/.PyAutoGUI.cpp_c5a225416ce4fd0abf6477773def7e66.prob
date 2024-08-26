@@ -1,0 +1,1 @@
+{"name":"Local: PyAutoGUI","url":"e:\\Python (OOP)\\Week-01\\Assignment-01\\PyAutoGUI.cpp","tests":[{"id":1695983397257,"input":"5","output":"#\n##\n###\n####\n#####"},{"id":1695983472313,"input":"1","output":"#"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Python (OOP)\\Week-01\\Assignment-01\\PyAutoGUI.cpp","group":"local","local":true}
